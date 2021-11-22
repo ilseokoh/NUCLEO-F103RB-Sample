@@ -53,9 +53,7 @@ dkms.conf
 
 # Eclipse CDT project files
 .cproject
-.project
 .settings/
 .metadata/
 Debug/
 Release
-*.launch
