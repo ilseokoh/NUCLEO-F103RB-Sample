@@ -52,7 +52,6 @@ Mkfile.old
 dkms.conf
 
 # Eclipse CDT project files
-.cproject
 .settings/
 .metadata/
 Debug/
